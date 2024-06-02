@@ -60,7 +60,7 @@ main {
 /* GALERIA Y CONTACTO */	
 h4, h5 {
     background-color: var(--secondary-color);
-    border-radius: 1em;
+    border-radius: 0.2em;
 }
 #galeria {
     font-style: oblique;
